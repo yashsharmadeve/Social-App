@@ -29,6 +29,8 @@
   }
   
   .rightbarTitle{
+    font-size: 18px;
+    font-weight: 500;
       margin-bottom: 20px;
   }
   
@@ -58,7 +60,7 @@
   }
   
   .rightbarInfoValue{
-    font-weight: 300;
+    font-weight: 400;
   }
   
   .rightbarFollowings{
