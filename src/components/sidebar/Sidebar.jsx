@@ -51,7 +51,7 @@ const Sidebar = () => {
         <ul className="sidebarFriendList">
             {
               Users.map(u=>(
-                <CloseFriend user={u} />
+                <CloseFriend key={u.id} user={u} />
               ))
             }
         </ul>
